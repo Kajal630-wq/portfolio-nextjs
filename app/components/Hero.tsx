@@ -16,7 +16,7 @@ export default function Hero() {
           Hi, I'm <span className="text-blue-600">Kajal Kushwaha</span>
         </h1>
         <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
-          Full Stack Developer | Next.js Expert | UI Enthusiast
+          Full Stack Developer | Next.js | UI Enthusiast
         </p>
         <a
           href="#contact"
